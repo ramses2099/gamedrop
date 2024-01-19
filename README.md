@@ -1,0 +1,2 @@
+# gamedrop
+Libgdx project game
